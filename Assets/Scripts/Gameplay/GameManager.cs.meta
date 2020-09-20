@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c6fcd06ae5910e041951cff095028373
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraController: {instanceID: 0}
+  - placeables: {fileID: 11400000, guid: 278699013b1d24eed98d554ad830067a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
